@@ -1,0 +1,33 @@
+SmartKart
+|
+├── frontend
+│   ├── customer-react
+│   ├── admin-angular
+│   └── mobile-app
+|
+├── backend
+│   ├── api-gateway
+│   ├── identity-service
+│   ├── product-service
+│   ├── inventory-service
+│   ├── cart-service
+│   ├── order-service
+│   ├── payment-service
+│   └── notification-service
+|
+├── database
+│   ├── identity-db
+│   ├── product-db
+│   ├── inventory-db
+│   └── order-db
+|
+├── docs
+│   ├── HLD
+│   ├── LLD
+│   ├── API
+│   └── DB
+|
+└── infra
+    ├── docker
+    ├── kubernetes
+    └── terraform

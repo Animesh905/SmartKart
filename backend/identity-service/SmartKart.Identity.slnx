@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".dockerignore" />
+    <File Path="Dockerfile" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/SmartKart.Identity.API/SmartKart.Identity.API.csproj" />
+    <Project Path="src/SmartKart.Identity.Application/SmartKart.Identity.Application.csproj" />
+    <Project Path="src/SmartKart.Identity.Domain/SmartKart.Identity.Domain.csproj" />
+    <Project Path="src/SmartKart.Identity.Infrastructure/SmartKart.Identity.Infrastructure.csproj" />
+    <Project Path="src/SmartKart.Identity.Persistence/SmartKart.Identity.Persistence.csproj" />
+  </Folder>
+</Solution>

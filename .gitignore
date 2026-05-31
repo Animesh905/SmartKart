@@ -1,0 +1,30 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Publish
+publish/
+
+# Test
+TestResults/
+
+# Secrets
+appsettings.Development.json
+
+# Node
+node_modules/
+
+# Docker
+docker-compose.override.yml
