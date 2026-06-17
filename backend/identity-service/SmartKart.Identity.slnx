@@ -10,5 +10,6 @@
     <Project Path="src/SmartKart.Identity.Domain/SmartKart.Identity.Domain.csproj" />
     <Project Path="src/SmartKart.Identity.Infrastructure/SmartKart.Identity.Infrastructure.csproj" />
     <Project Path="src/SmartKart.Identity.Persistence/SmartKart.Identity.Persistence.csproj" />
+    <Project Path="src/SmartKart.Identity.Shared/SmartKart.Identity.Shared.csproj" />
   </Folder>
 </Solution>
