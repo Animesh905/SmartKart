@@ -54,5 +54,16 @@ namespace SmartKart.Identity.Domain.Entities.UserEntities
                 "Email.InvalidFormat",
                 "Email has an invalid format");
         }
+
+        public static class PhoneNumber
+        {
+            public static readonly Error CountryCodeRequired = new(
+                "PhoneNumber.CountryCodeRequired",
+                "Country code is required");
+
+            public static readonly Error NumberRequired = new(
+                "PhoneNumber.NumberRequired",
+                "Phone number is required");
+        }
     }
 }
